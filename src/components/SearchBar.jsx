@@ -21,7 +21,7 @@ const SearchBar = () => {
     >
       <input 
         className="search-bar"
-        placeHolder="Search..."
+        placeholder="Search..."
         value=""
         onChange = {() => {}}
       />
