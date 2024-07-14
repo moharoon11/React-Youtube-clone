@@ -46,7 +46,7 @@ const Feed = () => {
         flex: 2
        }}>
           <Typography variant="h4"
-          fontWeight="bold" mb={2} sx={{color: 'white'}}>
+          fontWeight="bold" mb={2} ml='8px' sx={{color: 'white'}}>
               {selectedCategory} <span style={{ color: '#F31503'}}>
               Videos
               </span>
